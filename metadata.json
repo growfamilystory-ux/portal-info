@@ -1,0 +1,6 @@
+{
+  "name": "Portal Informasi BPJS Kesehatan Rumah Sakit",
+  "description": "Pusat informasi digital BPJS Kesehatan Rumah Sakit untuk pasien, keluarga, dan petugas. Menyajikan peraturan resmi, alur pelayanan, kanal pendaftaran, direktori petugas BPJS RS, dokumen, FAQ, dan sistem CMS terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
